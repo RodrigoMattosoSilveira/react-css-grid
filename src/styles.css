@@ -1,4 +1,10 @@
+@import '../node_modules/mini.css/dist/mini-default.min.css';
+
 .App {
   font-family: sans-serif;
-  text-align: center;
+  text-align: left;
+}
+
+form {
+  min-width: 300px;
 }
